@@ -1,0 +1,4 @@
+This directory holds placeholder image files used by the Expo configuration.
+The actual images should be replaced with appropriate icons and splash
+screens for the application.  For now simple 1×1 pixel PNGs are generated
+in the build script to satisfy the file references in app.json.
